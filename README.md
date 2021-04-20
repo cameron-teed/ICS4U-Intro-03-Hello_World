@@ -1,1 +1,1 @@
-# ICS4U-Intro-03-Hello_World
+# ICS4U-Intro-03-Ruby-Hello_World
